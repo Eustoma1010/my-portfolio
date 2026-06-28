@@ -183,6 +183,7 @@ export default function CV() {
               <div className="cv-exp-title">Engineer's Degree in Electronics & Communications</div>
               <ul className="cv-exp-desc">
                 <li><strong>Major:</strong> IC Design</li>
+                <li><strong>Current GPA:</strong> 3.09/4.0 (7.64/10)</li>
               </ul>
             </div>
 
