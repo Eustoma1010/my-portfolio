@@ -26,8 +26,7 @@ export default function EducationAndAwards() {
           title: "Giải Khuyến khích Olympic Tin học Sinh viên",
           subtitle: "Year 2024",
           images: [
-            { src: "/HocBong/chung_nhan_giai_khuyen_khich_olp_sinh_vien_2024.jpg", alt: "Chứng nhận Giải Khuyến khích OLP Sinh viên" },
-            { src: "/HocBong/nhan_giai_khuyen_khich_olp_sinh_vien_2024.jpg", alt: "Kỷ niệm chương" }
+            { src: "/HocBong/chung_nhan_giai_khuyen_khich_olp_sinh_vien_2024.jpg", alt: "Chứng nhận Giải Khuyến khích OLP Sinh viên" }
           ]
         }
       ]
