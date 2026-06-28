@@ -49,6 +49,10 @@ export default function CV() {
               <span className="cv-contact-label">GitHub</span>
               <span className="cv-contact-value">github.com/Eustoma1010</span>
             </div>
+            <div className="cv-contact-item">
+              <span className="cv-contact-label">Website</span>
+              <span className="cv-contact-value">phanphuocquocthien.id.vn</span>
+            </div>
           </div>
 
           <div>
